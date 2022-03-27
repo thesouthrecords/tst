@@ -1,0 +1,492 @@
+<!DOCTYPE html>
+<html class="no-js" lang="zxx">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>Musico</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- <link rel="manifest" href="site.webmanifest"> -->
+    <link rel="shortcut icon" type="image/x-icon" href="img/favicon.png">
+    <!-- Place favicon.ico in the root directory -->
+    <!-- CSS here -->
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/owl.carousel.min.css">
+    <link rel="stylesheet" href="css/magnific-popup.css">
+    <link rel="stylesheet" href="css/font-awesome.min.css">
+    <link rel="stylesheet" href="css/themify-icons.css">
+    <link rel="stylesheet" href="css/nice-select.css">
+    <link rel="stylesheet" href="css/audioplayer.css">
+    <link rel="stylesheet" href="css/flaticon.css">
+    <link rel="stylesheet" href="css/gijgo.css">
+    <link rel="stylesheet" href="css/animate.css">
+    <link rel="stylesheet" href="css/slick.css">
+    <link rel="stylesheet" href="css/slicknav.css">
+    <link rel="stylesheet" href="css/style.css">
+    <!-- <link rel="stylesheet" href="css/responsive.css"> -->
+  </head>
+  <body>
+    <!--[if lte IE 9]>
+            <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>        <![endif]-->
+    <!-- header-start -->
+    <header>
+      <div class="header-area " style="top: -21px; height: 168px;">
+        <div id="sticky-header" class="main-header-area">
+          <div class="container-fluid">
+            <div class="header_bottom_border">
+              <div class="row align-items-center">
+                <div class="col-xl-3 col-lg-2">
+                  <div class="logo"> <a href="file:///C:/Users/ASUS/Documents/logo%20the%20south%20records%20logo%20sin%20fondo%201.png"
+                      title="THE SOUTH RECORDS" target="_top"> <img src="../../../Documents/logo%20the%20south%20records%20logo%20sin%20fondo%201.png"
+                        style="left: 15px; width: 91px; top: 0px; height: 73px;"
+                        alt="The South Records" title="The South Records"> </a>
+                  </div>
+                </div>
+                <div class="col-xl-6 col-lg-7">
+                  <div class="main-menu  d-none d-lg-block">
+                    <nav>
+                      <ul id="navigation">
+                        <li><a class="active" href="index.html">inicio</a></li>
+                        <li><br>
+                        </li>
+                        <li><a href="track.html">&nbsp;&nbsp;&nbsp;&nbsp; Beats</a></li>
+                        <li>
+                          <ul class="submenu">
+                            <li><a href="blog.html">blog</a></li>
+                            <li><a href="single-blog.html">single-blog</a></li>
+                          </ul>
+                        </li>
+                        <li><br>
+                          <ul class="submenu">
+                            <li><a href="elements.html">elements</a></li>
+                          </ul>
+                        </li>
+                        <li><a href="contacto.html">Contacto</a></li>
+                      </ul>
+                    </nav>
+                  </div>
+                </div>
+                <br>
+                <div class="col-12">
+                  <div class="mobile_menu d-block d-lg-none"></div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </header>
+    <!-- header-end -->
+    <!-- slider_area_start -->
+    <div class="slider_area"> <a href="file:///C:/Users/ASUS/Documents/foto%20insta%20the%20south%20records.png"></a>
+      <div class="single_slider  d-flex align-items-center slider_bg_1 overlay2">
+        <div class="container">
+          <div class="row">
+            <div class="col-xl-12">
+              <div class="slider_text text-center ">
+                <h3>the south records</h3>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- slider_area_end -->
+    <!-- music_area  -->
+    <div class="music_area">
+      <div class="container">
+        <div class="row align-items-center justify-content-center">
+          <div class="col-xl-10">
+            <div class="row align-items-center">
+              <div class="col-xl-9 col-md-9">
+                <div class="music_field">
+                  <div class="thumb"> <img src="../../tadework.png" style="width: 148px; height: 148px;">
+                  </div>
+                  <div class="audio_name">
+                    <div class="name">
+                      <h4>TadeWork</h4>
+                      <p><br>
+                      </p>
+                    </div>
+                    &nbsp; </div>
+                </div>
+              </div>
+              <div class="col-xl-3 col-md-3">
+                <div class="music_btn"> <a href="#" class="boxed-btn">buy track</a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- music_area end  -->
+    <!-- about_area  -->
+    <div class="about_area">
+      <div class="container">
+        <div class="row align-items-center">
+          <div class="col-xl-5 col-md-6">
+            <div class="about_thumb"> <img class="img-fluid" src="../../../Documents/foto%20insta%20the%20south%20records.png">
+            </div>
+          </div>
+          <div class="col-xl-7 col-md-6">
+            <div class="about_info">
+              <h3>The South Records</h3>
+              <p><span style="color: rgb(38, 38, 38); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Helvetica, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;">Bienvenidos
+                  a 𝑻𝒉𝒆 𝑺𝒐𝒖𝒕𝒉 𝒓𝒆𝒄𝒐𝒓𝒅𝒔, un estudio de grabación
+                  ubicado en Córdoba capital - Argentina, para todos aquellos
+                  artistas que quieren sonar con una calidad profesional sin
+                  importar el lugar en donde se encuentre🌐</span><br style="color: rgb(38, 38, 38); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Helvetica, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+                <span style="color: rgb(38, 38, 38); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Helvetica, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;">Actualmente
+                  estamos desarrollando un sello discográfico para apoyarlos, el
+                  cual contara con artistas y productores de la escena para
+                  poder promover el material, y crecer todos juntos!</span><br style="color: rgb(38, 38, 38); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Helvetica, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+                <span style="color: rgb(38, 38, 38); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Helvetica, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;">𝑻𝑺𝑹
+                  - ᴅᴇʟ sᴜʀ ᴘᴀʀᴀ ᴜsᴛᴇᴅᴇs</span></p>
+              <div class="signature"> <br>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!--/ about_area  -->
+    <!-- youtube_video_area  -->
+    <div class="youtube_video_area">
+      <div class="container-fluid p-0">
+        <div class="row no-gutters">
+          <div class="col-xl-3 col-lg-3 col-md-6">
+            <div class="single_video">
+              <div class="thumb"> <img src="../../../Documents/pashur%201999.png"
+                  style="width: 291px; height: 268px;"> </div>
+              <a href="file:///C:/Users/ASUS/Documents/pashur%201999.png"></a>
+              <div class="hover_elements" style="top: 0px; height: 264px;">
+                <div class="video"> <a class="popup-video" href="https://www.youtube.com/watch?v=trdbvW5Ia-M">
+                    <i class="fa fa-play"></i> </a> </div>
+                <div class="hover_inner"> <span>Cordoba&nbsp; 2021</span>
+                  <h3><a href="#">Pashur LSF - 1999<br>
+                    </a></h3>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-xl-3 col-lg-3 col-md-6">
+            <div class="single_video">
+              <div class="thumb"> <img src="../../../Documents/fory.png" style="width: 291px; height: 267px;">
+              </div>
+              <div class="hover_elements" style="top: 2px; height: 265px;">
+                <div class="video"> <a class="popup-video" href="https://www.youtube.com/watch?v=qylt96nhJIU">
+                    <i class="fa fa-play"></i> </a> </div>
+                <div class="hover_inner"> <span>Cordoba 2021</span>
+                  <h3><a href="#">Fory <br>
+                    </a></h3>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-xl-3 col-lg-3 col-md-6">
+            <div class="single_video">
+              <div class="thumb"> <img src="../../../Documents/prada.png" style="width: 291px; height: 268px;">
+              </div>
+              <div class="hover_elements" style="top: 0px; height: 272px;">
+                <div class="video"> <a class="popup-video" href="https://www.youtube.com/watch?v=xqmjA8H0v9I">
+                    <i class="fa fa-play"></i> </a> </div>
+                <div class="hover_inner" style="top: 199px; left: 30px;"> <span>Cordoba
+                    2021</span>
+                  <h3><a href="#">Prada</a></h3>
+                  <h3><a href="#"><br>
+                      <span style="color: #001d38;"></span></a></h3>
+                  <h3></h3>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-xl-3 col-lg-3 col-md-6">
+            <div class="single_video">
+              <div class="thumb"> <img src="../../../Documents/keeping%20promise.png"
+                  style="width: 291px; height: 267px;"> </div>
+              <div class="hover_elements" style="top: 1px; height: 265px;">
+                <div class="video"> <a class="popup-video" href="https://www.youtube.com/watch?v=PhfUc3qJtVo">
+                    <i class="fa fa-play"></i> </a> </div>
+                <div class="hover_inner"> <span>Cordoba 2022</span>
+                  <h3><span style="color: white;">Keeping Promise</span></h3>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- / youtube_video_area  -->
+    <!-- music_area  -->
+    <div class="music_area music_gallery">
+      <div class="container">
+        <div class="row">
+          <div class="col-xl-12">
+            <div class="section_title text-center mb-65">
+              <h3>Beats Tracks</h3>
+            </div>
+          </div>
+        </div>
+        <div class="row align-items-center justify-content-center mb-20">
+          <div class="col-xl-10">
+            <div class="row align-items-center">
+              <div class="col-xl-9 col-md-9">
+                <div class="music_field">
+                  <div class="thumb"> <a href="file:///C:/Users/ASUS/Downloads/tadework.png"
+                      target="_self"><img src="../../tadework.png" style="width: 148px; height: 148px;"></a>
+                  </div>
+                  <div class="audio_name">
+                    <div class="name">
+                      <h4>TadeWork x Orduz</h4>
+                      <p><br>
+                      </p>
+                    </div>
+                    <audio preload="auto" controls="controls" src="file:///D:/audio/DrumKits_Sounds/tade/tade%20x%20orduz%20palon.wav"
+                      loop="loop"> <source src="https://www.w3schools.com/html/horse.mp3">
+                    </audio> </div>
+                </div>
+              </div>
+              <div class="col-xl-3 col-md-3">
+                <div class="music_btn"> <a href="#" class="boxed-btn">buy Beat</a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="row align-items-center justify-content-center mb-20">
+          <div class="col-xl-10">
+            <div class="row align-items-center">
+              <div class="col-xl-9 col-md-9">
+                <div class="music_field">
+                  <div class="thumb"> <img src="../../tadework.png" style="width: 148px; height: 148px;">
+                  </div>
+                  <div class="audio_name">
+                    <div class="name">
+                      <h4>guitarmood-TadeWork</h4>
+                      <p>10 November, 2019</p>
+                    </div>
+                    <audio preload="auto" controls="controls" src="file:///D:/audio/TadeWork/GUITAR.mp3"
+                      loop="loop"> <source src="https://www.w3schools.com/html/horse.mp3">
+                    </audio> </div>
+                </div>
+              </div>
+              <div class="col-xl-3 col-md-3">
+                <div class="music_btn"> <a href="#" class="boxed-btn">buy Beat</a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="row align-items-center justify-content-center mb-20">
+          <div class="col-xl-10">
+            <div class="row align-items-center">
+              <div class="col-xl-9 col-md-9">
+                <div class="music_field">
+                  <div class="thumb"> <img src="../../tadework.png" style="width: 149px; height: 149px;">
+                  </div>
+                  <div class="audio_name">
+                    <div class="name">
+                      <h4>TRUMPETH-TadeWork</h4>
+                      <p>10 November, 2019</p>
+                    </div>
+                    <audio preload="auto" controls="controls" src="file:///D:/audio/DrumKits_Sounds/tade/los%20pibes%20parte%203.wav"
+                      loop="loop"> <source src="https://www.w3schools.com/html/horse.mp3">
+                    </audio> </div>
+                </div>
+              </div>
+              <div class="col-xl-3 col-md-3">
+                <div class="music_btn"> <a href="#" class="boxed-btn">buy Beat</a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- music_area end  -->
+    <!-- gallery -->
+    <div class="gallery_area">
+      <div class="container">
+        <div class="row">
+          <div class="col-xl-12">
+            <div class="section_title text-center mb-65">
+              <h3>Galeria</h3>
+            </div>
+          </div>
+        </div>
+        <div class="row grid">
+          <div class="col-xl-5 col-lg-5 grid-item cat1 col-md-6">
+            <div class="single-gallery mb-30">
+              <div class="portfolio-img"> <img src="../../../PACHUR.png" style="width: 445px; height: 355px;">
+              </div>
+              <div class="gallery_hover"> <a class="popup-image" href="img/gallery/1.png">
+                  <i class="ti-plus"></i> </a> </div>
+            </div>
+          </div>
+          <div class="col-xl-7 col-lg-7 grid-item cat3 cat4 col-md-6">
+            <div class="single-gallery mb-30">
+              <div class="portfolio-img"> <img src="img/banner/banner.png"> </div>
+              <div class="gallery_hover"> <a class="popup-image" href="img/gallery/2.png">
+                  <i class="ti-plus"></i> </a> </div>
+            </div>
+          </div>
+          <div class="col-xl-4 col-lg-6 grid-item cat4 col-md-6">
+            <div class="single-gallery mb-30">
+              <div class="portfolio-img"> <img src="../../WhatsApp%20Image%202022-03-23%20at%206.30.03%20PM.jpeg"
+                  style="width: 350px; height: 351px;"> </div>
+              <div class="gallery_hover"> <a class="popup-image" href="img/gallery/3.png">
+                  <i class="ti-plus"></i> </a> </div>
+            </div>
+          </div>
+          <div class="col-xl-4 col-lg-6 grid-item cat2 col-md-6">
+            <div class="single-gallery mb-30">
+              <div class="portfolio-img"> <img src="../../WhatsApp%20Image%202022-03-23%20at%208.40.53%20PM.jpeg"
+                  style="width: 350px; height: 351px;"> </div>
+              <div class="gallery_hover"> <a class="popup-image" href="img/gallery/4.png">
+                  <i class="ti-plus"></i> </a> </div>
+            </div>
+          </div>
+          <div class="col-xl-4 col-lg-6 grid-item cat2 col-md-6">
+            <div class="single-gallery mb-30">
+              <div class="portfolio-img"> <img src="../../../Documents/foto%20insta%20the%20south%20records.png">
+              </div>
+              <div class="gallery_hover"> <a class="popup-image" href="img/gallery/5.png">
+                  <i class="ti-plus"></i> </a> </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!--/ gallery -->
+    <!-- contact_rsvp -->
+    <div class="contact_rsvp">
+      <div class="container">
+        <div class="row">
+          <div class="col-xl-12">
+            <div class="text text-center">
+              <h3>Contactar a TSR</h3>
+              <a class="boxed-btn3" href="https://www.instagram.com/thesouth.records/"
+                target="_top">Contacto</a> </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!--/ contact_rsvp -->
+    <!-- footer start -->
+    <footer class="footer">
+      <div class="footer_top">
+        <div class="container">
+          <div class="row">
+            <div class="col-xl-6 col-md-6">
+              <div class="footer_widget">
+                <h3 class="footer_title"> Servicio</h3>
+                <div class="subscribe-from">
+                  <form action="#"> <input placeholder="Enter your mail" type="text">
+                    <button type="submit">Subscribe</button> </form>
+                </div>
+                <p class="sub_text"><br>
+                </p>
+              </div>
+            </div>
+            <div class="col-xl-5 col-md-5 offset-xl-1">
+              <div class="footer_widget">
+                <h3 class="footer_title"> Contacto</h3>
+                <ul>
+                  <li><a href="#">thesouth.records@gmail.com</a></li>
+                  <li><a href="#">+54 297 4130 849<br>
+                    </a></li>
+                  <li><a href="#">Cordoba-Cordoba-Fray jose leon torres 816<br>
+                    </a></li>
+                </ul>
+                <div class="socail_links">
+                  <ul>
+                    <li> <a href="https://www.facebook.com/The-South-records-101028312573696">
+                      </a> <br>
+                    </li>
+                    <li> <a href="#"> </a> <br>
+                    </li>
+                    <li> <a href="https://twitter.com/thesouthrecords"> </a> <br>
+                    </li>
+                    <li> <a href="https://www.youtube.com/channel/UCuwL6N62HbMJRcB3V6QfkLg">
+                      </a> <br>
+                    </li>
+                    <li> <a href="#"> </a> <br>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="copy-right_text">
+        <div class="container">
+          <div class="footer_border"></div>
+          <div class="row">
+            <div class="col-xl-7 col-md-6">
+              <p class="copy_right">
+                <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+                Copyright ©
+                <script>document.write(new Date().getFullYear());</script> All
+                rights reserved | This template is made with by <a href="https://colorlib.com"
+                  target="_blank">Colorlib</a> <strong><em><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></em></strong>
+              </p>
+            </div>
+            <div class="col-xl-5 col-md-6">
+              <div class="footer_links">
+                <ul>
+                  <li><a href="#">home</a></li>
+                  <li><a href="#">about</a></li>
+                  <li><a href="#">tracks</a></li>
+                  <li><a href="#">blog</a></li>
+                  <li><a href="#">contact</a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </footer>
+    <!--/ footer end  -->
+    <!-- link that opens popup -->
+    <!-- JS here -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+crossorigin="anonymous">
+    </script>
+    <script src="js/vendor/modernizr-3.5.0.min.js"></script>
+    <script src="js/vendor/jquery-1.12.4.min.js"></script>
+    <script src="js/popper.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/owl.carousel.min.js"></script>
+    <script src="js/isotope.pkgd.min.js"></script>
+    <script src="js/ajax-form.js"></script>
+    <script src="js/waypoints.min.js"></script>
+    <script src="js/jquery.counterup.min.js"></script>
+    <script src="js/imagesloaded.pkgd.min.js"></script>
+    <script src="js/audioplayer.js"></script>
+    <script src="js/scrollIt.js"></script>
+    <script src="js/jquery.scrollUp.min.js"></script>
+    <script src="js/wow.min.js"></script>
+    <script src="js/nice-select.min.js"></script>
+    <script src="js/jquery.slicknav.min.js"></script>
+    <script src="js/jquery.magnific-popup.min.js"></script>
+    <script src="js/plugins.js"></script>
+    <script src="js/gijgo.min.js"></script>
+    <script src="js/slick.min.js"></script>
+    <!--contact js-->
+    <script src="js/contact.js"></script>
+    <script src="js/jquery.ajaxchimp.min.js"></script>
+    <script src="js/jquery.form.js"></script>
+    <script src="js/jquery.validate.min.js"></script>
+    <script src="js/mail-script.js"></script>
+    <script src="js/main.js"></script>
+    <script>
+                $(function() {
+                    $('audio').audioPlayer({
+
+                    });
+                });
+            </script>
+  </body>
+</html>
